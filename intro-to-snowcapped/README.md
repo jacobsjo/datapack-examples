@@ -13,8 +13,6 @@ Snowcapped is an editor for multi-noise biome layouts. Based on the vanilla over
 
 This repo includes some files used during the presentation:
 - **intro_to_snowcapped_dp.zip** The simple terrain datapack used for the demonstration
-
-The following files will be added after the panel:
 - **slides.pdf** The full slides used for the presentation
 - **intro_to_snowcapped.snowcapped.json** The final snowcapped save-file as created during the panel
 - **datapack/** the datapack containing both the simple terrain and the exported dimension file
