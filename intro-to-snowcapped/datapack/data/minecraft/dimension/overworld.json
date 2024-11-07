@@ -1,0 +1,2262 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "biome_source": {
+      "biomes": [
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1,
+              -0.225
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:ocean"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.045
+            ],
+            "continentalness": [
+              -0.225,
+              -0.135
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:beach"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.045
+            ],
+            "continentalness": [
+              -0.135,
+              -0.02
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              -1,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:snowy_plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.045
+            ],
+            "continentalness": [
+              -0.135,
+              -0.02
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:snowy_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.045
+            ],
+            "continentalness": [
+              -0.135,
+              -0.02
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.045
+            ],
+            "continentalness": [
+              -0.135,
+              -0.02
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:birch_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.045
+            ],
+            "continentalness": [
+              -0.135,
+              -0.02
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.045
+            ],
+            "continentalness": [
+              -0.135,
+              -0.02
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.045
+            ],
+            "continentalness": [
+              -0.135,
+              -0.02
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.045
+            ],
+            "continentalness": [
+              -0.135,
+              -0.02
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:jungle"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.71
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              -1,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:snowy_plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.71
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:snowy_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.71
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.71
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:birch_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.71
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.71
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.71
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              -0.71
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:jungle"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.71,
+              -0.61
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              -0.34500000000000003
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:jagged_peaks"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.71,
+              -0.045
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -0.34500000000000003,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              -1,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:snowy_plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.71,
+              -0.045
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -0.34500000000000003,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:snowy_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.71,
+              -0.045
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -0.34500000000000003,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.71,
+              -0.045
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -0.34500000000000003,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:birch_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.71,
+              -0.045
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -0.34500000000000003,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.71,
+              -0.045
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -0.34500000000000003,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.71,
+              -0.045
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -0.34500000000000003,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.71,
+              -0.045
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -0.34500000000000003,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:jungle"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.61,
+              -0.045
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              -1,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:snowy_plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.61,
+              -0.045
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:snowy_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.61,
+              -0.045
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.61,
+              -0.045
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:birch_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.61,
+              -0.045
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.61,
+              -0.045
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.61,
+              -0.045
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.61,
+              -0.045
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:jungle"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -0.045,
+              0.045
+            ],
+            "continentalness": [
+              -0.225,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:river"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.045,
+              1
+            ],
+            "continentalness": [
+              -0.225,
+              -0.135
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:beach"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.045,
+              1
+            ],
+            "continentalness": [
+              -0.135,
+              -0.02
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:ice_spikes"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.045,
+              1
+            ],
+            "continentalness": [
+              -0.135,
+              -0.02
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:snowy_plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.045,
+              1
+            ],
+            "continentalness": [
+              -0.135,
+              -0.02
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:snowy_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.045,
+              1
+            ],
+            "continentalness": [
+              -0.135,
+              -0.02
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:sunflower_plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.045,
+              1
+            ],
+            "continentalness": [
+              -0.135,
+              -0.02
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:birch_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.045,
+              1
+            ],
+            "continentalness": [
+              -0.135,
+              -0.02
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:flower_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.045,
+              1
+            ],
+            "continentalness": [
+              -0.135,
+              -0.02
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.045,
+              1
+            ],
+            "continentalness": [
+              -0.135,
+              -0.02
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.045,
+              1
+            ],
+            "continentalness": [
+              -0.135,
+              -0.02
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:bamboo_jungle"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.045,
+              0.61
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:ice_spikes"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.045,
+              0.61
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:snowy_plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.045,
+              0.61
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:snowy_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.045,
+              0.61
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:sunflower_plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.045,
+              0.61
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:birch_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.045,
+              0.61
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:flower_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.045,
+              0.61
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.045,
+              0.61
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.045,
+              0.61
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:bamboo_jungle"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.61,
+              0.71
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              -0.34500000000000003
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:jagged_peaks"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.61,
+              1
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -0.34500000000000003,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:ice_spikes"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.61,
+              1
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -0.34500000000000003,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:snowy_plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.61,
+              1
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -0.34500000000000003,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:snowy_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.61,
+              1
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -0.34500000000000003,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:sunflower_plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.61,
+              1
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -0.34500000000000003,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:birch_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.61,
+              1
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -0.34500000000000003,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:flower_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.61,
+              1
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -0.34500000000000003,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.61,
+              1
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -0.34500000000000003,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.61,
+              1
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -0.34500000000000003,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:bamboo_jungle"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.71,
+              1
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:ice_spikes"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.71,
+              1
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:snowy_plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.71,
+              1
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              -0.225
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:snowy_taiga"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.71,
+              1
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:sunflower_plains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.71,
+              1
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:birch_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.71,
+              1
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -0.225,
+              0.21
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:flower_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.71,
+              1
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              -1,
+              -0.23
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:desert"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.71,
+              1
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              -0.23,
+              0.255
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:savanna"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0.71,
+              1
+            ],
+            "continentalness": [
+              -0.02,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              0.21,
+              1
+            ],
+            "humidity": [
+              0.255,
+              1
+            ],
+            "depth": [
+              -1,
+              0.05
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:bamboo_jungle"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "depth": [
+              0.05,
+              1
+            ],
+            "offset": 0
+          },
+          "biome": "minecraft:lush_caves"
+        }
+      ],
+      "type": "minecraft:multi_noise"
+    },
+    "settings": "minecraft:overworld",
+    "type": "minecraft:noise"
+  }
+}
